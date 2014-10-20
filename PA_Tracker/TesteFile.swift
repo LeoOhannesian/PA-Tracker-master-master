@@ -8,6 +8,7 @@
 
 import Foundation
 
-print; let var = "hello world"
+var test = "Hello World!"
+
 
 
